@@ -30,7 +30,7 @@ const Header = () => {
     }
 
     return (
-        <AppBar position="static" color="primary">
+        <AppBar position="static" color="secondary">
             <Toolbar variant="dense">
                 <Box flex={1} display="flex" justifyContent="space-between">
                     <Box display="flex" alignItems="center">

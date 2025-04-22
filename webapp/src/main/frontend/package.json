@@ -27,6 +27,7 @@
         "xss": "^1.0.15"
     },
     "devDependencies": {
+        "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
         "@types/jsonexport": "^3.0.5",
         "@types/node": "^20.12.7",
         "@types/react-calendar": "^3.9.0",
